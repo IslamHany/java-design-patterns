@@ -9,7 +9,7 @@ public class CarBuilder implements Builder{
 
     @Override
     public void setCarType(String type) {
-        this.carType = carType;
+        this.carType = type;
     }
 
     @Override
